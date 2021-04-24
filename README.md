@@ -4,4 +4,4 @@ Use the ECC algorithm to create multiple public and private key pairs as the wal
 and then generate 10 block chain data with chain relationships again.
 ![image](https://github.com/Muqing-luo/block_chain_task3/blob/main/dd.png?raw=true)
 the answer
-![image]()
+![image](https://github.com/Muqing-luo/block_chain_task3/blob/main/2.png?raw=true)
